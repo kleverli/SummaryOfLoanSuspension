@@ -1486,5 +1486,42 @@
         "developer":"融创",
         "developer-subsidiary":"青岛嘉凯城房地产开发有限公司",
         "fang.com":"https://www.fang.com/xiaoqu/qd-2411123329/"
+    },
+    "河南省-安阳市-河南安阳恒大未来城":{
+        "developer":"恒大",
+        "fang.com":""
+    },
+    "山东省-青岛市-西海岸新区融创影都学府三期":{
+        "developer":"融创",
+        "developer-subsidiary":"东方影都融创投资有限公司",
+        "fang.com":"https://www.fang.com/xinfang/qd-2411123429/"
+    },
+    "浙江省-嘉兴市-桐乡金科时代天悦小区":{
+        "developer":"金科地产集团股份有限公司",
+        "fang.com":"https://www.fang.com/xinfang/tongxiang-2030183214/"
+    },
+    "山西省-太原市-远洋红星天润一期":{
+        "developer":"远洋红星企业发展有限公司",
+        "developer-subsidiary":"太原星光寰宇房地产开发有限公司",
+        "fang.com":"https://taiyuan.newhouse.fang.com/loupan/1410193755.htm"
+    },
+    "北京市-房山区-长海御墅三期":{
+        "developer":"北京昊远隆基房地产开发有限公司",
+        "fang.com":"https://www.fang.com/xinfang/bj-1010130397/"
+    },
+    "浙江省-绍兴市-绍兴藏珑府":{
+        "developer":"宝能",
+        "developer-subsidiary":"绍兴宝泰置业有限公司",
+        "fang.com":"https://sx.newhouse.fang.com/loupan/2015182112.htm"
+    },
+    "河北省-邯郸市-恒大御景半岛":{
+        "developer":"恒大",
+        "developer-subsidiary":"河北滏淼房地产开发有限公司",
+        "fang.com":"https://hd.esf.fang.com/loupan/1311184121.htm"
+    },
+    "广东省-广州市-升龙桂园":{
+        "developer":"升龙集团",
+        "developer-subsidiary":"广州升龙锦盛置业有限公司",
+        "fang.com":"https://gz.newhouse.fang.com/loupan/2811177110.htm"
     }
 }

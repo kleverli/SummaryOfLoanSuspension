@@ -91,7 +91,7 @@ sh ./run-validate.sh
 - ~~[Notion 数据库](https://www.notion.so/21dab14200e2478eb91c49b68d16495f)~~ (
   20220717已被恶意删除)
 
-## 分省数据 (总计：【**344+**】，按三级拼音升序）
+## 分省数据 (总计：【**351+**】，按三级拼音升序）
 
 ### 安徽省 [ 2 ]
 
@@ -99,10 +99,12 @@ sh ./run-validate.sh
   [恒大中心（8月）](images/安徽省/合肥市/合肥恒大中心全体业主强制停贷告知书.png),
   斯瑞大厦
 
-### 北京市 [ 3 ]
+### 北京市 [ 4 ]
 
 - **朝阳区（1）：** 
   [上东郡（澜悦景苑）](images/北京市/朝阳区/澜悦景苑.jpeg)
+- **房山区（1）：** 
+  [长海御墅三期](images/北京市/房山区/_北京长海御墅三期)
 - **石景山区（1）：** 
   [禧悦学府（悦创佳苑）](images/北京市/石景山区/禧悦学府.jpeg)
 - **通州区（1）：** 
@@ -147,9 +149,10 @@ sh ./run-validate.sh
 - **庆阳市（1）：** 
   国金one（11月）
 
-### 广东省 [ 8 ]
+### 广东省 [ 9 ]
 
-- **广州市（1）：** 
+- **广州市（2）：** 
+  [升龙桂园](images/广东省/广州市/_广州升龙桂园),
   [万科海上明月（9月）](images/广东省/广州市/gz001.png)
 - **揭阳市（1）：** 
   恒大翡翠华庭二期
@@ -205,7 +208,7 @@ sh ./run-validate.sh
   中环国际阅湖,
   [中天·吾乡](images/贵州省/贵阳市/_中天·吾乡)
 
-### 河北省 [ 24 ]
+### 河北省 [ 25 ]
 
 - **保定市（3）：** 
   [隆基泰和涿州铂悦山](images/河北省/保定市/隆基泰和涿州铂悦山项目全体业主强制停贷告知书.jpeg),
@@ -215,8 +218,9 @@ sh ./run-validate.sh
   [紫樾香榭](images/河北省/沧州市/沧州市紫樾香榭全体业主强制停贷告知书.jpeg)
 - **承德市（1）：** 
   状元府
-- **邯郸市（2）：** 
+- **邯郸市（3）：** 
   [恒大绿洲](images/河北省/邯郸市/邯郸恒大绿洲.jpg),
+  [恒大御景半岛](images/河北省/邯郸市/恒大御景半岛.jpg),
   [恒大悦珑湾](images/河北省/邯郸市/邯郸恒大.jpg)
 - **廊坊市（5）：** 
   鸿坤凤凰城五期（8月）,
@@ -240,9 +244,10 @@ sh ./run-validate.sh
   宣化恒大滨河左岸,
   宣化恒大翡翠湾
 
-### 河南省 [ 69 ]
+### 河南省 [ 70 ]
 
-- **安阳市（2）：** 
+- **安阳市（3）：** 
+  [河南安阳恒大未来城（8月）](images/河南省/安阳市/_河南安阳恒大未来城),
   恒大悦府,
   紫薇公馆
 - **鹤壁市（1）：** 
@@ -421,7 +426,7 @@ sh ./run-validate.sh
 - **连云港市（1）：** 
   [恒泰悦珑府](images/江苏省/连云港市/恒泰悦珑府.png)
 - **南京市（1）：** 
-  金陵华夏中心（8月）
+  [金陵华夏中心（8月）](images/江苏省/南京市/南京市金陵华夏中心文渊府1、2栋全体业主决定于2022年8月强制停贷告知书.png)
 - **南通市（1）：** 
   阳光城未来悦
 - **苏州市（2）：** 
@@ -487,12 +492,12 @@ sh ./run-validate.sh
 - **银川市（1）：** 
   [恒大珺睿府](images/宁夏回族自治区/银川市/银川市恒大珺睿府.png)
 
-### 山东省 [ 13 ]
+### 山东省 [ 14 ]
 
 - **济南市（2）：** 
   [融创中新国际城四期南区](images/山东省/济南市/融创中新国际城四期南区.jpeg),
   [阳光城檀悦](images/山东省/济南市/阳光城檀悦.jpeg)
-- **青岛市（9）：** 
+- **青岛市（10）：** 
   [黄岛蓝光雍锦半岛（6月)](images/山东省/青岛市/蓝光雍锦半岛.jpeg),
   [胶州协信天骄云麓](images/山东省/青岛市/胶州协信天骄云麓.jpeg),
   [李沧区融创悦山二期](images/山东省/青岛市/李沧区融创悦山二期.jpg),
@@ -500,6 +505,7 @@ sh ./run-validate.sh
   [青岛海洋活力区融创中心三期（10月）](images/山东省/青岛市/青岛海洋活力区融创中心三期.png),
   [三盛国际海岸五期（9月）](images/山东省/青岛市/三盛国际.jpeg),
   [实地蔷薇国际](images/山东省/青岛市/实地蔷薇国际.jpeg),
+  [西海岸新区融创影都学府三期（9月）](images/山东省/青岛市/青岛西海岸新区融创影都学府三期.jpeg),
   [西海岸新区世茂•香奈公馆（10月）](images/山东省/青岛市/_西海岸新区世茂•香奈公馆),
   [中南林樾小区（7月）](images/山东省/青岛市/李沧中南林樾.jpg)
 - **烟台市（1）：** 
@@ -507,9 +513,9 @@ sh ./run-validate.sh
 - **淄博市（1）：** 
   [恒大养生谷](images/山东省/淄博市/_淄博恒大养生谷)
 
-### 山西省 [ 10 ]
+### 山西省 [ 11 ]
 
-- **太原市（10）：** 
+- **太原市（11）：** 
   宝能城一期（8月）,
   [恒大滨河府二期](images/山西省/太原市/太原恒大滨河府二期全体业主决定千2022年9月强制停贷告知书.jpeg),
   恒大金碧天下八期（10月）,
@@ -519,9 +525,10 @@ sh ./run-validate.sh
   [太原富力天禧城3期](images/山西省/太原市/太原市富力天禧城3期.jpg),
   [太原市恒大御景湾4期](images/山西省/太原市/太原市恒大御景湾4期.jpg),
   [太原市融创中心](images/山西省/太原市/太原市融创中心.png),
-  泰禾金尊府
+  泰禾金尊府,
+  [远洋红星天润一期](images/山西省/太原市/_远洋红星天润一期)
 
-### 陕西省 [ 25 ]
+### 陕西省 [ 24 ]
 
 - **西安市（23）：** 
   [当代嘉宝公园悦](images/陕西省/西安市/当代嘉宝公园悦停贷告知书.png),
@@ -547,8 +554,6 @@ sh ./run-validate.sh
   阳光100阿尔勒（8月）,
   [正荣紫阙峯著（紫阙台东西区）](images/陕西省/西安市/西安正荣紫阙峯著全体业主强制停贷告知书.png),
   [中南上悦城四期](images/陕西省/西安市/西安市西咸新区中南上悦城四期停贷告知书.png)
-- **咸阳市（1）：** 
-  [融创御河宸院DK6](images/陕西省/咸阳市/咸阳融创御河宸院DK6全体业主停货告知书.png)
 - **延安市（1）：** 
   [延安融创宸院](images/陕西省/延安市/_延安融创宸院)
 
@@ -626,15 +631,19 @@ sh ./run-validate.sh
 - **玉溪市（1）：** 
   樱花谷（7月）
 
-### 浙江省 [ 4 ]
+### 浙江省 [ 6 ]
 
 - **杭州市（4）：** 
   [富阳区泰禾大城小院楼盘](images/浙江省/杭州市/浙江省杭州市富阳区泰禾大城小院楼盘富政储出（2010）20号地块购房者暂停还货告知书.jpg),
   [杭州中南春溪集](images/浙江省/杭州市/浙江杭州中南春溪集.png),
   [曲江新鸥鹏第三城（待停贷）](images/浙江省/杭州市/杭州市曲江新鸥鹏第三城停贷风险告知书.jpg),
   [中润璞玉公馆](images/浙江省/杭州市/中润璞玉公馆.png)
+- **嘉兴市（1）：** 
+  [桐乡金科时代天悦小区](images/浙江省/嘉兴市/_金科时代天悦小区)
+- **绍兴市（1）：** 
+  [绍兴藏珑府](images/浙江省/绍兴市/_绍兴藏珑府)
 
-## 开发商总计 132（按拼音排序）（统计楼盘数 344）[数据源](data/source/extra-info.json)
+## 开发商总计 135（按拼音排序）（统计楼盘数 351）[数据源](data/source/extra-info.json)
 <details>
 <summary><b> 安徽斯瑞投资集团有限公司 【1】</b></summary>
   安徽省-合肥市-斯瑞大厦
@@ -659,8 +668,9 @@ sh ./run-validate.sh
   河北省-廊坊市-盈时·未来港
 </details>
 <details>
-<summary><b> 宝能 【1】</b></summary>
-  山西省-太原市-宝能城一期（8月）
+<summary><b> 宝能 【2】</b></summary>
+  山西省-太原市-宝能城一期（8月）,<br>
+  浙江省-绍兴市-绍兴藏珑府
 </details>
 <details>
 <summary><b> 保定铭域房地产开发有限公司 【1】</b></summary>
@@ -671,6 +681,10 @@ sh ./run-validate.sh
   河南省-开封市-开封北大资源未名府一期,<br>
   河南省-开封市-开封北大资源紫境府二期,<br>
   湖南省-株洲市-北大资源翡翠公园
+</details>
+<details>
+<summary><b> 北京昊远隆基房地产开发有限公司 【1】</b></summary>
+  北京市-房山区-长海御墅三期
 </details>
 <details>
 <summary><b> 北京鸿坤伟业房地产开发有限公司 【2】</b></summary>
@@ -817,7 +831,7 @@ sh ./run-validate.sh
   河南省-郑州市-盛世卧龙城三期（10月）
 </details>
 <details>
-<summary><b> 恒大 【86】</b></summary>
+<summary><b> 恒大 【88】</b></summary>
   安徽省-合肥市-恒大中心（8月）,<br>
   重庆市-巴南区-恒大新城四期,<br>
   重庆市-大渡口区-恒大麓山湖（9月）,<br>
@@ -833,6 +847,7 @@ sh ./run-validate.sh
   广西壮族自治区-钦州市-恒大御景半岛二期,<br>
   广西壮族自治区-梧州市-恒大绿洲二期（8月）,<br>
   河北省-邯郸市-恒大绿洲,<br>
+  河北省-邯郸市-恒大御景半岛,<br>
   河北省-邯郸市-恒大悦珑湾,<br>
   河北省-石家庄市-恒大时代新城（8月）,<br>
   河北省-石家庄市-恒大悦龙台,<br>
@@ -840,6 +855,7 @@ sh ./run-validate.sh
   河北省-邢台市-恒大悦府,<br>
   河北省-张家口市-宣化恒大滨河左岸,<br>
   河北省-张家口市-宣化恒大翡翠湾,<br>
+  河南省-安阳市-河南安阳恒大未来城（8月）,<br>
   河南省-安阳市-恒大悦府,<br>
   河南省-开封市-郑开恒大未来城三期,<br>
   河南省-洛阳市-恒大云湖上郡,<br>
@@ -980,10 +996,11 @@ sh ./run-validate.sh
   江西省-南昌市-中金中心
 </details>
 <details>
-<summary><b> 金科地产集团股份有限公司 【3】</b></summary>
+<summary><b> 金科地产集团股份有限公司 【4】</b></summary>
   重庆市-渝北区-芙蓉公馆（9月）,<br>
   河南省-许昌市-金科鹿鸣帝景,<br>
-  辽宁省-沈阳市-金科集美东方
+  辽宁省-沈阳市-金科集美东方,<br>
+  浙江省-嘉兴市-桐乡金科时代天悦小区
 </details>
 <details>
 <summary><b> 锦业地产集团有限公司 【1】</b></summary>
@@ -1102,9 +1119,9 @@ sh ./run-validate.sh
   山东省-济南市-融创中新国际城四期南区,<br>
   山东省-青岛市-李沧区融创悦山二期,<br>
   山东省-青岛市-青岛海洋活力区融创中心三期（10月）,<br>
+  山东省-青岛市-西海岸新区融创影都学府三期（9月）,<br>
   山西省-太原市-太原市融创中心,<br>
   陕西省-西安市-融创东方宸院DK5,<br>
-  陕西省-咸阳市-融创御河宸院DK6,<br>
   陕西省-延安市-延安融创宸院,<br>
   四川省-都江堰市-融创文旅滨江新区（8月）,<br>
   四川省-眉山市-眉山市彭山区融创水郡未来城（江口水镇）（10月）,<br>
@@ -1138,6 +1155,10 @@ sh ./run-validate.sh
 <details>
 <summary><b> 上海兴宸房地产开发有限公司 【1】</b></summary>
   上海市-浦东新区-周浦合富广场
+</details>
+<details>
+<summary><b> 升龙集团 【1】</b></summary>
+  广东省-广州市-升龙桂园
 </details>
 <details>
 <summary><b> 石家庄中融汇通房地产开发有限公司 【1】</b></summary>
@@ -1293,6 +1314,10 @@ sh ./run-validate.sh
   河南省-新乡市-新乡市豫飞盛世城邦（8月）
 </details>
 <details>
+<summary><b> 远洋红星企业发展有限公司 【1】</b></summary>
+  山西省-太原市-远洋红星天润一期
+</details>
+<details>
 <summary><b> 云南澄德房地产开发有限公司 【1】</b></summary>
   云南省-玉溪市-樱花谷（7月）
 </details>
@@ -1378,6 +1403,8 @@ sh ./run-validate.sh
 
 ## 其他曝光
 
+- 山东-青岛-黄岛融发碧桂园珠山郡 以疫情为理由延期交房 目前仅几个工人在磨洋工
+
 - 梁溪本源(基本停工), 协信城立方(停工一年多),新力翡翠湾, 梁溪官邸(停工半年)，见：[#900](https://github.com/WeNeedHome/SummaryOfLoanSuspension/pull/900)
 
 - 四川省-都江堰市-恒大云锦华庭（9月）（缺告知书）
@@ -1388,8 +1415,6 @@ sh ./run-validate.sh
   ，这楼盘停工两年了，中天城投已经被接管，5月份建了群和业主协调，应该是没告知书的了，http://sc.house.hexun.com/News/details/id/198910.html
   。具体见：[#828](https://github.com/WeNeedHome/SummaryOfLoanSuspension/pull/828)
 
-- [河南安阳恒大未来城（待停贷）](others/_河南安阳恒大未来城)
-
 - [湖北省恒大供应商、小微企业断贷停工告知书](others/湖北省恒大供应商、小微企业断贷停工告知书.png)
 
 - 湖北省恒大科技旅游城5号地块逾期一年未交付，政府专班答应8/10交付 2栋楼，失信。整个5号地块预估说11月交付
@@ -1398,8 +1423,6 @@ sh ./run-validate.sh
 。参考来源：https://tieba.baidu.com/p/4710142504
 
 - 河南省-商丘市-鸿山美景 [图](https://user-images.githubusercontent.com/110381329/182118827-41b3e82a-0201-4254-8025-6ee729dcb23f.PNG)
-
-- 山东省青岛市西海岸新区融创影都学府三期项目如不能在2022年9月30日之前全面复工，将采取动态还贷，[告知书](./others/山东省青岛市西海岸新区融创影都学府三期/青岛西海岸新区融创影都学府三期.jpeg)在此。
 
 - 河北省-邯郸市-北湖尚水湾 [#65](https://github.com/WeNeedHome/SummaryOfLoanSuspension/pull/65)
 
@@ -1441,6 +1464,8 @@ sh ./run-validate.sh
 
 - 浙江省-杭州市-绿地众安宸瀚里（已结束） [#718](https://github.com/WeNeedHome/SummaryOfLoanSuspension/pull/718) [绿臻置业公告](https://user-images.githubusercontent.com/16377295/179204666-6df50f70-0e5f-401f-929b-b1de3dac2637.png)
 
+- 陕西省-咸阳市-[融创御河宸院DK6](https://github.com/WeNeedHome/SummaryOfLoanSuspension/blob/ae61f72dd4d54b63c32b1ffa65d78d17fde2c5f8/images/%E9%99%95%E8%A5%BF%E7%9C%81/%E5%92%B8%E9%98%B3%E5%B8%82/%E5%92%B8%E9%98%B3%E8%9E%8D%E5%88%9B%E5%BE%A1%E6%B2%B3%E5%AE%B8%E9%99%A2DK6%E5%85%A8%E4%BD%93%E4%B8%9A%E4%B8%BB%E5%81%9C%E8%B4%A7%E5%91%8A%E7%9F%A5%E4%B9%A6.png)（已结束） [2023/12的归心家书](https://mp.weixin.qq.com/s/ZX6n0dz5Ali-DzgShoQfBA)
+
 - 广西省-南宁市-当代锦园3、5号楼 [#896](https://github.com/WeNeedHome/SummaryOfLoanSuspension/pull/896)
 
 - 云南省-昆明市-别样幸福城 [#925](https://github.com/WeNeedHome/SummaryOfLoanSuspension/discussions/925)
@@ -1450,3 +1475,17 @@ sh ./run-validate.sh
 - 广东省-深圳市-盐田佳兆业御璟佳园广场 [#1003](https://github.com/WeNeedHome/SummaryOfLoanSuspension/pull/1003)
 
 - 福建省-建瓯市-恒大溪山公馆 [#1062](https://github.com/WeNeedHome/SummaryOfLoanSuspension/discussions/1062) 
+
+- 云南省-西双版纳傣族自治州-融创旅游度假区 [#558](https://github.com/WeNeedHome/SummaryOfLoanSuspension/discussions/558) 
+
+- 湖北省-襄阳市-融创民发御湖壹号 烂尾了 已经开始在门口拉横幅了 [comment](https://github.com/WeNeedHome/SummaryOfLoanSuspension/discussions/1134#discussioncomment-3452874)
+
+- 河南省-郑州市-金科星澜园 [comment](https://github.com/WeNeedHome/SummaryOfLoanSuspension/discussions/423#discussioncomment-3152066)
+
+- 江苏省-苏州市-恒大悦珑湾 八月底交房不交房就停贷 [comment](https://github.com/WeNeedHome/SummaryOfLoanSuspension/discussions/6#discussioncomment-3256616)
+
+- 四川省-成都市-龙泉-幸福东方白桦林 [#1190](https://github.com/WeNeedHome/SummaryOfLoanSuspension/discussions/1190)
+
+- 湖北省-武汉市-江岸区星湖湾 [#1195](https://github.com/WeNeedHome/SummaryOfLoanSuspension/pull/1195) 
+
+- 山西省-太原市-阳光城并州府 [#1200](https://github.com/WeNeedHome/SummaryOfLoanSuspension/pull/1200)

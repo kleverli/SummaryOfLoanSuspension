@@ -1,6 +1,6 @@
 {
   "name": "中华人民共和国",
-  "count": 344,
+  "count": 351,
   "children": [
     {
       "name": "安徽省",
@@ -26,7 +26,7 @@
     },
     {
       "name": "北京市",
-      "count": 3,
+      "count": 4,
       "children": [
         {
           "name": "朝阳区",
@@ -36,6 +36,17 @@
               "name": "上东郡（澜悦景苑）",
               "uri": "images/北京市/朝阳区/澜悦景苑.jpeg",
               "developer": "中交地产股份有限公司"
+            }
+          ]
+        },
+        {
+          "name": "房山区",
+          "count": 1,
+          "children": [
+            {
+              "name": "长海御墅三期",
+              "uri": "images/北京市/房山区/_北京长海御墅三期",
+              "developer": "北京昊远隆基房地产开发有限公司"
             }
           ]
         },
@@ -243,12 +254,17 @@
     },
     {
       "name": "广东省",
-      "count": 8,
+      "count": 9,
       "children": [
         {
           "name": "广州市",
-          "count": 1,
+          "count": 2,
           "children": [
+            {
+              "name": "升龙桂园",
+              "uri": "images/广东省/广州市/_广州升龙桂园",
+              "developer": "升龙集团"
+            },
             {
               "name": "万科海上明月（9月）",
               "uri": "images/广东省/广州市/gz001.png",
@@ -521,7 +537,7 @@
     },
     {
       "name": "河北省",
-      "count": 24,
+      "count": 25,
       "children": [
         {
           "name": "保定市",
@@ -568,11 +584,16 @@
         },
         {
           "name": "邯郸市",
-          "count": 2,
+          "count": 3,
           "children": [
             {
               "name": "恒大绿洲",
               "uri": "images/河北省/邯郸市/邯郸恒大绿洲.jpg",
+              "developer": "恒大"
+            },
+            {
+              "name": "恒大御景半岛",
+              "uri": "images/河北省/邯郸市/恒大御景半岛.jpg",
               "developer": "恒大"
             },
             {
@@ -695,12 +716,17 @@
     },
     {
       "name": "河南省",
-      "count": 69,
+      "count": 70,
       "children": [
         {
           "name": "安阳市",
-          "count": 2,
+          "count": 3,
           "children": [
+            {
+              "name": "河南安阳恒大未来城（8月）",
+              "uri": "images/河南省/安阳市/_河南安阳恒大未来城",
+              "developer": "恒大"
+            },
             {
               "name": "恒大悦府",
               "uri": "",
@@ -1592,7 +1618,7 @@
           "children": [
             {
               "name": "金陵华夏中心（8月）",
-              "uri": "",
+              "uri": "images/江苏省/南京市/南京市金陵华夏中心文渊府1、2栋全体业主决定于2022年8月强制停贷告知书.png",
               "developer": "华夏幸福"
             }
           ]
@@ -1902,7 +1928,7 @@
     },
     {
       "name": "山东省",
-      "count": 13,
+      "count": 14,
       "children": [
         {
           "name": "济南市",
@@ -1922,7 +1948,7 @@
         },
         {
           "name": "青岛市",
-          "count": 9,
+          "count": 10,
           "children": [
             {
               "name": "黄岛蓝光雍锦半岛（6月)",
@@ -1958,6 +1984,11 @@
               "name": "实地蔷薇国际",
               "uri": "images/山东省/青岛市/实地蔷薇国际.jpeg",
               "developer": "实地地产集团有限公司"
+            },
+            {
+              "name": "西海岸新区融创影都学府三期（9月）",
+              "uri": "images/山东省/青岛市/青岛西海岸新区融创影都学府三期.jpeg",
+              "developer": "融创"
             },
             {
               "name": "西海岸新区世茂•香奈公馆（10月）",
@@ -1997,11 +2028,11 @@
     },
     {
       "name": "山西省",
-      "count": 10,
+      "count": 11,
       "children": [
         {
           "name": "太原市",
-          "count": 10,
+          "count": 11,
           "children": [
             {
               "name": "宝能城一期（8月）",
@@ -2052,6 +2083,11 @@
               "name": "泰禾金尊府",
               "uri": "",
               "developer": "泰禾"
+            },
+            {
+              "name": "远洋红星天润一期",
+              "uri": "images/山西省/太原市/_远洋红星天润一期",
+              "developer": "远洋红星企业发展有限公司"
             }
           ]
         }
@@ -2059,7 +2095,7 @@
     },
     {
       "name": "陕西省",
-      "count": 25,
+      "count": 24,
       "children": [
         {
           "name": "西安市",
@@ -2179,17 +2215,6 @@
               "name": "中南上悦城四期",
               "uri": "images/陕西省/西安市/西安市西咸新区中南上悦城四期停贷告知书.png",
               "developer": "江苏中南建设集团股份有限公司"
-            }
-          ]
-        },
-        {
-          "name": "咸阳市",
-          "count": 1,
-          "children": [
-            {
-              "name": "融创御河宸院DK6",
-              "uri": "images/陕西省/咸阳市/咸阳融创御河宸院DK6全体业主停货告知书.png",
-              "developer": "融创"
             }
           ]
         },
@@ -2562,7 +2587,7 @@
     },
     {
       "name": "浙江省",
-      "count": 4,
+      "count": 6,
       "children": [
         {
           "name": "杭州市",
@@ -2587,6 +2612,28 @@
               "name": "中润璞玉公馆",
               "uri": "images/浙江省/杭州市/中润璞玉公馆.png",
               "developer": "中润控股集团（中国）有限公司"
+            }
+          ]
+        },
+        {
+          "name": "嘉兴市",
+          "count": 1,
+          "children": [
+            {
+              "name": "桐乡金科时代天悦小区",
+              "uri": "images/浙江省/嘉兴市/_金科时代天悦小区",
+              "developer": "金科地产集团股份有限公司"
+            }
+          ]
+        },
+        {
+          "name": "绍兴市",
+          "count": 1,
+          "children": [
+            {
+              "name": "绍兴藏珑府",
+              "uri": "images/浙江省/绍兴市/_绍兴藏珑府",
+              "developer": "宝能"
             }
           ]
         }
